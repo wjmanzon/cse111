@@ -1,0 +1,27 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+This semester, I worked on my final project, gpa.py. Its purpose is to calculate
+and forecast the student's GPA. While working on my project, the question on my mind
+was how to divide the a big function into smaller functions so that the function will do
+only one thing. I figured out that all of the inputs can be put in the main, and then just
+pass in those inputs as arguments to the other functions, let the other functions process
+the inputs, and then return values.
+
+
+2. In your judgment, what is the value of test functions?
+Test functions allow us to test the functions without the need of running the program
+and printing the results in the terminal again and again. It saves us time and energy.
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+When there's a problem with my code, I look at the terminal and read the error message.
+When the error message is not familiar to me, I search for it in Google and find solution.
+When I know what the error is, I look at the line of code and use the debugging tool in VS code
+to know where the glitch is happening, and solve it from there.
+When I cannot solve it by myself, I turn to my groupmate for help.
+
